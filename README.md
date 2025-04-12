@@ -251,7 +251,7 @@ Basta clicar na classe principal OrangePortifolioApplication > Botão Direito > 
 <img src="https://avatars.githubusercontent.com/u/112699067?v=4" heigth="50px" width="50px" style="border-radius: 50%;" />
 </a>
 
-<a href="https://github.com/Denis-moreira98" target="_blank">
+<a href="https://github.com/devdenismoreira" target="_blank">
 
 <img src="https://avatars.githubusercontent.com/u/72985107?v=4" heigth="50px" width="50px" style="border-radius: 50%;" />
 </a>
